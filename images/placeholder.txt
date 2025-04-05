@@ -1,0 +1,2 @@
+Placeholder file for images folder.
+Create images folder with placeholder file
