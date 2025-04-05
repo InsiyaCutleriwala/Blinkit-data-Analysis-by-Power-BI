@@ -21,7 +21,11 @@ This interactive Power BI dashboard analyzes the sales performance of Blinkit, a
 ## Files Included
 - `BlinkIT Grocery Sales Dashboard.pbix` – Main Power BI Report
 - `BlinkIT Grocery Data.xlsx` – Underlying dataset
+- `images/dashboard.png` – Dashboard screenshot
 - `README.md` – Project description
+
+## Dashboard Preview
+![Blinkit Sales Dashboard](images/dashboard.png)
 
 
 ## Tools Used
